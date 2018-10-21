@@ -1,0 +1,18 @@
+{
+    "name": "muan/neural-network",
+    "description": "Simple Neural Network",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mustard Andrew",
+            "email": "mustard.andrew@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NeuralNetwork\\": "src/"
+        }
+    },
+    "require": {}
+}
